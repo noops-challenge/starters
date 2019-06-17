@@ -35,4 +35,5 @@ The `canvas` tag is the easiest way to draw with HTML and JavaScript. Learn abou
 ## 🕴 Misc
 `stats.js` is a handy tool for monitoring your FPS performance if you're running a lot of animations. https://github.com/mrdoob/stats.js
 
-:bulb: Got an idea? looking for a collaborator? See what people are saying about the challenges by joining the conversation on the [GitHub.Community](https://github.community/t5/Events/Featured-Event-The-Noops-Challenge/m-p/25089#M99)
+### :bulb: Got an idea? Looking for a collaborator? 
+See what people are saying about the challenges by joining the conversation on the [GitHub.Community](https://github.community/t5/Events/Featured-Event-The-Noops-Challenge/m-p/25089#M99)
